@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "fullName": "Mark",
+      "phoneNumber": "8585858246",
+      "email": "mark@email.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Maxie",
+      "phoneNumber": "855964258",
+      "email": "maxie@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Stark",
+      "phoneNumber": "7889627516",
+      "email": "tony@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Clark",
+      "phoneNumber": "011962111",
+      "email": "clark@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Raymond",
+      "phoneNumber": "32319627516",
+      "email": "raymon@email.com"
+    }
+  ]
+  
